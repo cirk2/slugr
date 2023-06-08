@@ -8,7 +8,7 @@ If the extension `redirects` is installed, then redirects are generated for you.
 
 Currently this is just a CLI script, callable via `vendor/bin/typo3 urls:regenerate`.
 
-Try out `--help` for more detailled features.
+Try out `--help` for more detailed features.
 
 ## Installation
 
@@ -27,3 +27,4 @@ As TYPO3 Core, _slugr_ is licensed under GPL2 or later. See the LICENSE file for
 ## Authors & Maintenance
 
 _slugr_ was initially requested by Christian Knauf and created by Benni Mack for [b13, Stuttgart](https://b13.com).
+Added TYPO3 V11 Support by Jan Krüger for [VisionConnect, Hannover](https://www.visionconnect.de/).

@@ -6,13 +6,13 @@ $EM_CONF[$_EXTKEY] = [
     'category' => 'fe',
     'version' => '1.0.0',
     'state' => 'stable',
-    'clearcacheonload' => 1,
+    'clearCacheOnLoad' => true,
     'author' => 'Benni Mack',
     'author_email' => 'typo3@b13.com',
     'author_company' => 'b13 GmbH',
     'constraints' => [
         'depends' => [
-            'typo3' => '9.5.0-10.4.99',
+            'typo3' => '9.5.0-11.5.99',
         ],
     ],
 ];
